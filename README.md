@@ -1,0 +1,2 @@
+# GoogleDialogflow
+I built a Google Dialogflow skill called "DMV" metro to help users get train information in the D.C area. The API I used to retrieve real time information is the [WMATA API](https://developer.wmata.com/docs/services/) which is publicly available. Take a look at [`index.js`](https://github.com/chingachleung/GoogleDialogflow/blob/main/index.js) to see how I perform asynchronous HTTP requests.
