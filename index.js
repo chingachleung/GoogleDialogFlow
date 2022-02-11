@@ -8,7 +8,7 @@ const { WebhookClient } = require('dialogflow-fulfillment');
 
 process.env.DEBUG = 'dialogflow:debug'; // enables lib debugging statements
 
-const api_key = '846745bc4e1c4ac78f9b6fe6633a9b54';
+const api_key = '<YOU API KEY>';
 const https = require('https');
 
 
